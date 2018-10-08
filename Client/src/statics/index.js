@@ -1,0 +1,1 @@
+export const API_ROOT = process.env.PORT ? "https://tk-server.herokuapp.com" : "http://localhost:6969";

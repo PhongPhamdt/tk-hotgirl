@@ -1,3 +1,5 @@
+import {API_ROOT} from "./statics"
+
 export default {
-    rootPath :'http://localhost:6969'
+    rootPath : `${API_ROOT}`
 };
